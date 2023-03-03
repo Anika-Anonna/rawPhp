@@ -1,0 +1,14 @@
+{
+  "name": "work/work",
+  "description": "description",
+  "type": "project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+      }
+    }
+  }
